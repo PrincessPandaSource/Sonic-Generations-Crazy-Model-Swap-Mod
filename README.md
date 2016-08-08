@@ -28,4 +28,4 @@ ARTools for ar file unpacking and repacking
 
 <a href="https://www.youtube.com/watch?v=_4xDkyN-L3o">This tutorial video</a> for teaching me how to hack the textures
 
-<i>This modification is only meant to add onto Sonic Generations, which is a copyrighted game developed by Sonic Team at SEGA. You may not redistribute this without permission and this cannot be used for commerical purposes.</i>
+<i>This modification is only meant to add onto Sonic Generations, which is a copyrighted game developed by Sonic Team at SEGA. You may not redistribute this without permission and this cannot be used for commerical purposes. If you want to showcase a video of you using this mod, please give proper credit and link this GitHub repository.</i>
