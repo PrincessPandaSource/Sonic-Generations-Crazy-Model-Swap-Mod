@@ -13,7 +13,7 @@ This version only affects the Modern Sonic model controlled in the game. Classic
 </ol>
 
 <h1>Screenshots</h1
-<img src="http://i.cubeupload.com/8BYFvN.jpg" height = "500" width = "450">
+<img src ="http://i.cubeupload.com/8BYFvN.jpg" height = "500" width = "450">
 
 <h1>Version history</h1>
 <h3>Version 1.0</h3>
