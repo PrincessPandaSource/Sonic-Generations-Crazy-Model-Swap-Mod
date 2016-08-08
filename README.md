@@ -13,8 +13,19 @@ This version only affects the Modern Sonic model controlled in the game. Classic
 </ol>
 
 <h1>Screenshots</h1
-<img src="http://i.cubeupload.com/8BYFvN.jpg">
+<img src="http://i.cubeupload.com/8BYFvN.jpg" height = "500" width = "450">
 
 <h1>Version history</h1>
 <h3>Version 1.0</h3>
 Mod is released. Only Modern Sonic model is affected.
+
+<h1>Acknowledgements</h1>
+<a href="http://i.cubeupload.com/mk1OME.jpg">This image</a> for inspiration
+
+<a href="http://aluigi.altervista.org/quickbms.htm">quickBMS</a> for game file extraction
+
+ARTools for ar file unpacking and repacking
+
+<a href="https://www.youtube.com/watch?v=_4xDkyN-L3o">This tutorial video</a> for teaching me how to hack the textures
+
+<i>This modification is only meant to add onto Sonic Generations, which is a copyrighted game developed by Sonic Team at SEGA. You may not redistribute this without permission and this cannot be used for commerical purposes.</i>
