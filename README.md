@@ -6,8 +6,15 @@ This version only affects the Modern Sonic model controlled in the game. Classic
 
 <h1>Installation instructions</h1>
 <ol>
-<li>If you haven't already, install SonicGMI (Sonic Generations Mod Installer), a tool used to install mods into the game. Click <a aref="http://forums.sonicretro.org/?showtopic=26974">here</a> for download and installation instructions.</li>
+<li>If you haven't already, install SonicGMI (Sonic Generations Mod Installer), a tool used to install mods into the game. Click <a href="http://forums.sonicretro.org/?showtopic=26974">here</a> for download and installation instructions.</li>
 <li>Download the ZIP of this repository. Just click the green "Clone/Download" button and select "Download the ZIP".</li>
 <li>Drag the folder to the "mods" folder in the folder of the Sonic Generations program files.</li>
 <li>Open up SonicGMI and check "Sonic Recolors Generations". Save.</li>
 </ol>
+
+<h1>Screenshots</h1
+<img src="http://i.cubeupload.com/8BYFvN.jpg">
+
+<h1>Version history</h1>
+<h3>Version 1.0</h3>
+Mod is released. Only Modern Sonic model is affected.
