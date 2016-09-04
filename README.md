@@ -1,4 +1,6 @@
 # Sonic-Recolors-Generations
+<b>NOTICE: Since it takes forever to sync the files, the newer versions will no longer be availible here. They will be availible as ZIP files on a Google Sites webpage.</b>
+
 <b>Sonic Recolors Generations</b> Generations is a modification to the 2011 <i>Sonic the Hedgehog</i> video game, <i>Sonic Generations</i>. With the mod, you can experience what the horrible Sonic fandom has done, recolors! <b>ORIGINAL CHARACTER, DO NOT STEAL.</b>
 
 <h1>Notice</h1>
